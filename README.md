@@ -1,0 +1,2 @@
+# E-Commerce-System
+An Online Shopping Website was developed using ASP.NET and MS SQL. The project consisted of three milestones. First, an ERD diagram and a database scheme were developed for the system based on the requirements of the stakeholders. Next database tables and procedures were created using MS SQL. The procedures comprised the entire logic of the e-commerce website. Finally, a basic front-end web application was built on top of the database.
